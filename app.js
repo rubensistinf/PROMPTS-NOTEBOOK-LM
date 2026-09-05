@@ -1,31 +1,31 @@
 const currData = {
     "1. Desarrollo de Software Web y Movil": {
         "Nivel Básico": {
-            "Módulo I: Lógica de Programación Práctica": [
+            "Módulo 1: Lógica de Programación Práctica": [
                 "¿Cómo piensan las máquinas?",
                 "Algoritmos y Diagramas de Flujo",
                 "Variables y Estructuras de Control",
                 "Tu Primer Programa Funcional"
             ],
-            "Módulo II: Estructura y Estilos (HTML y CSS)": [
+            "Módulo 2: Estructura y Estilos (HTML y CSS)": [
                 "Esqueleto Web (HTML5)",
                 "Diseño Moderno (CSS3)",
                 "Flexbox y Grid",
                 "Proyecto: Maquetar una Landing Page"
             ],
-            "Módulo III: Interactividad (JavaScript Básico)": [
+            "Módulo 3: Interactividad (JavaScript Básico)": [
                 "Sintaxis y Funciones JS",
                 "Manipulación del DOM",
                 "Eventos y Validaciones",
                 "Proyecto: Calculadora Web"
             ],
-            "Módulo IV: Control de Versiones (Git)": [
+            "Módulo 4: Control de Versiones (Git)": [
                 "¿Qué es Git y GitHub?",
                 "Ramas y Commits",
                 "Trabajo Colaborativo",
                 "Proyecto: Portafolio en GitHub Pages"
             ],
-            "Módulo V: Diseño UX/UI Básico": [
+            "Módulo 5: Diseño UX/UI Básico": [
                 "Principios de Buen Diseño",
                 "Uso de Figma",
                 "Prototipado Rápido",
@@ -33,31 +33,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Bases de Datos Relacionales": [
+            "Módulo 6: Bases de Datos Relacionales": [
                 "Modelado de Datos",
                 "Lenguaje SQL Básico",
                 "Consultas Avanzadas",
                 "Proyecto: Base de Sistema de Ventas"
             ],
-            "Módulo VII: Lógica Backend (Node.js)": [
+            "Módulo 7: Lógica Backend (Node.js)": [
                 "Entorno Node.js",
                 "Creación de Servidores",
                 "Manejo de Archivos",
                 "Proyecto: API REST Simple"
             ],
-            "Módulo VIII: Conectando Front y Back": [
+            "Módulo 8: Conectando Front y Back": [
                 "Peticiones HTTP (Fetch)",
                 "JSON y Transferencia de Datos",
                 "CRUD Completo",
                 "Proyecto: Gestor de Tareas Fullstack"
             ],
-            "Módulo IX: Autenticación de Usuarios": [
+            "Módulo 9: Autenticación de Usuarios": [
                 "Login y Registro",
                 "Seguridad con JWT",
                 "Encriptación de Contraseñas",
                 "Proyecto: Sistema con Roles"
             ],
-            "Módulo X: Despliegue en la Nube": [
+            "Módulo 10: Despliegue en la Nube": [
                 "Servidores Gratuitos (Render)",
                 "Variables de Entorno",
                 "Dominio y SSL",
@@ -65,31 +65,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Interfaces Avanzadas (React.js)": [
+            "Módulo 11: Interfaces Avanzadas (React.js)": [
                 "Componentes y Props",
                 "Estados (Hooks)",
                 "Rutas en React",
                 "Proyecto: Tienda Online"
             ],
-            "Módulo XII: Bases de Datos NoSQL": [
+            "Módulo 12: Bases de Datos NoSQL": [
                 "Introducción a MongoDB",
                 "Esquemas y Modelos",
                 "Consultas y Relaciones",
                 "Proyecto: Migrar App a MongoDB"
             ],
-            "Módulo XIII: Gestión de Estado Global": [
+            "Módulo 13: Gestión de Estado Global": [
                 "Context API",
                 "Introducción a Redux",
                 "Optimizando Rendimiento",
                 "Proyecto: Carrito de Compras"
             ],
-            "Módulo XIV: Trabajo en Equipo y Agilidad": [
+            "Módulo 14: Trabajo en Equipo y Agilidad": [
                 "Metodología Ágil (Scrum)",
                 "Pruebas Básicas (Testing)",
                 "Revisiones de Código",
                 "Proyecto: Agencia de Software"
             ],
-            "Módulo XV: Pasarelas de Pago": [
+            "Módulo 15: Pasarelas de Pago": [
                 "Integrar Stripe/PayPal",
                 "Webhooks y Confirmaciones",
                 "Seguridad en Pagos",
@@ -97,31 +97,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Desarrollo Móvil (React Native)": [
+            "Módulo 16: Desarrollo Móvil (React Native)": [
                 "App en el Celular",
                 "Navegación Móvil",
                 "Cámara y GPS",
                 "Proyecto: App para Android/iOS"
             ],
-            "Módulo XVII: Integración de IA": [
+            "Módulo 17: Integración de IA": [
                 "APIs de OpenAI",
                 "Generación de Texto/Imágenes",
                 "Chatbots Inteligentes",
                 "Proyecto: Asistente Web"
             ],
-            "Módulo XVIII: Arquitectura Limpia": [
+            "Módulo 18: Arquitectura Limpia": [
                 "Patrones de Diseño",
                 "Código Limpio (Clean Code)",
                 "Mantenimiento de Sistemas",
                 "Proyecto: Refactorización"
             ],
-            "Módulo XIX: Freelance y Monetización": [
+            "Módulo 19: Freelance y Monetización": [
                 "Venta de Software",
                 "Presupuestos y Contratos",
                 "Marca Personal",
                 "Proyecto: Perfil en LinkedIn"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Definición del Sistema",
                 "Desarrollo Intensivo",
                 "Preparación de Diapositivas",
@@ -131,31 +131,31 @@ const currData = {
     },
     "2. Inteligencia Artificial Aplicada": {
         "Nivel Básico": {
-            "Módulo I: Fundamentos de IA Generativa": [
+            "Módulo 1: Fundamentos de IA Generativa": [
                 "¿Qué es la IA?",
                 "ChatGPT desde Cero",
                 "Modelos de Lenguaje (LLMs)",
                 "Ética y Límites de la IA"
             ],
-            "Módulo II: El Arte de Preguntar": [
+            "Módulo 2: El Arte de Preguntar": [
                 "Estructura de un Prompt",
                 "Contexto y Roles",
                 "Few-Shot y Chain of Thought",
                 "Proyecto: Generador de Contenido"
             ],
-            "Módulo III: IA para Ofimática": [
+            "Módulo 3: IA para Ofimática": [
                 "IA en Excel",
                 "Redacción de Correos",
                 "Resumen de Datos",
                 "Proyecto: Tareas Administrativas"
             ],
-            "Módulo IV: Creación Multimedia": [
+            "Módulo 4: Creación Multimedia": [
                 "Imágenes (Midjourney/DALL-E)",
                 "Clonación de Voz",
                 "Generación de Video",
                 "Proyecto: Video Promocional"
             ],
-            "Módulo V: Asistentes de Investigación": [
+            "Módulo 5: Asistentes de Investigación": [
                 "NotebookLM",
                 "Búsquedas (Perplexity)",
                 "Análisis de PDFs",
@@ -163,31 +163,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Flujos Automatizados": [
+            "Módulo 6: Flujos Automatizados": [
                 "Make y Zapier",
                 "Conectando Apps",
                 "Rutas Lógicas",
                 "Proyecto: CRM Automatizado"
             ],
-            "Módulo VII: Chatbots de Atención": [
+            "Módulo 7: Chatbots de Atención": [
                 "Plataformas de Chatbots",
                 "Flujos de Conversación",
                 "Integración WhatsApp",
                 "Proyecto: Bot de Ventas"
             ],
-            "Módulo VIII: Analítica de Datos": [
+            "Módulo 8: Analítica de Datos": [
                 "Scraping Web",
                 "Análisis Exploratorio IA",
                 "Visualización Rápida",
                 "Proyecto: Dashboard de Ventas"
             ],
-            "Módulo IX: Automatización de RRSS": [
+            "Módulo 9: Automatización de RRSS": [
                 "Programación de Posts",
                 "Creación de Contenido IA",
                 "Respuestas Automáticas",
                 "Proyecto: Piloto para Instagram"
             ],
-            "Módulo X: Integración de APIs Básicas": [
+            "Módulo 10: Integración de APIs Básicas": [
                 "¿Qué es una API?",
                 "Conectando a OpenAI",
                 "Respuestas en JSON",
@@ -195,31 +195,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: IA Local Privada": [
+            "Módulo 11: IA Local Privada": [
                 "LM Studio y Ollama",
                 "Hardware y GPUs",
                 "Ejecución de Llama 3",
                 "Proyecto: Asistente sin Internet"
             ],
-            "Módulo XII: Recuperación Aumentada (RAG)": [
+            "Módulo 12: Recuperación Aumentada (RAG)": [
                 "Bases Vectoriales",
                 "Carga de Documentos",
                 "Búsqueda Semántica",
                 "Proyecto: Chatbot con Wiki Propia"
             ],
-            "Módulo XIII: Python para IA": [
+            "Módulo 13: Python para IA": [
                 "Python Básico",
                 "Librerías Esenciales",
                 "Scripting",
                 "Proyecto: Limpieza de Datos"
             ],
-            "Módulo XIV: Orquestación (LangChain)": [
+            "Módulo 14: Orquestación (LangChain)": [
                 "Introducción a LangChain",
                 "Cadenas de Procesamiento",
                 "Herramientas (Tools)",
                 "Proyecto: IA que Busca en Web"
             ],
-            "Módulo XV: Agentes Autónomos": [
+            "Módulo 15: Agentes Autónomos": [
                 "Autogen y CrewAI",
                 "Asignación de Roles",
                 "Trabajo en Equipo IA",
@@ -227,31 +227,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Fine-Tuning (Ajuste Fino)": [
+            "Módulo 16: Fine-Tuning (Ajuste Fino)": [
                 "¿Cuándo hacer Fine-Tuning?",
                 "Preparación de Dataset",
                 "Entrenamiento",
                 "Proyecto: IA con Personalidad de Marca"
             ],
-            "Módulo XVII: Visión y Audio": [
+            "Módulo 17: Visión y Audio": [
                 "Análisis de Imágenes",
                 "Reconocimiento Facial",
                 "Transcripción (Whisper)",
                 "Proyecto: Sistema Lector de Facturas"
             ],
-            "Módulo XVIII: Ventas de Soluciones (B2B)": [
+            "Módulo 18: Ventas de Soluciones (B2B)": [
                 "Detectar Problemas Empresas",
                 "Cotización de Sistemas",
                 "Mantenimiento",
                 "Proyecto: Pitch de Venta PyME"
             ],
-            "Módulo XIX: Despliegue de Modelos": [
+            "Módulo 19: Despliegue de Modelos": [
                 "Subir Modelo a Nube",
                 "Endpoints Seguros",
                 "Monitoreo de Costos",
                 "Proyecto: API Pública de Asesoría"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Definición de Solución IA",
                 "Desarrollo Intensivo",
                 "Demostración en Vivo",
@@ -261,31 +261,31 @@ const currData = {
     },
     "3. Ciberseguridad y Hacking Etico": {
         "Nivel Básico": {
-            "Módulo I: Fundamentos Ciberseguridad": [
+            "Módulo 1: Fundamentos Ciberseguridad": [
                 "Confidencialidad e Integridad",
                 "Tipos de Hackers",
                 "Huella Digital",
                 "Proyecto: Auditoría de Privacidad"
             ],
-            "Módulo II: Redes y Perspectiva Hacker": [
+            "Módulo 2: Redes y Perspectiva Hacker": [
                 "Modelo OSI y TCP/IP",
                 "Puertos y Protocolos",
                 "Sniffing Básico",
                 "Proyecto: Análisis de Tráfico"
             ],
-            "Módulo III: El Entorno Kali Linux": [
+            "Módulo 3: El Entorno Kali Linux": [
                 "Comandos Linux",
                 "Permisos de Archivos",
                 "Herramientas de Kali",
                 "Proyecto: Configurar Laboratorio"
             ],
-            "Módulo IV: Criptografía Práctica": [
+            "Módulo 4: Criptografía Práctica": [
                 "Hashes vs Encriptación",
                 "Criptografía Simétrica",
                 "PGP",
                 "Proyecto: Mensajes Cifrados"
             ],
-            "Módulo V: Ingeniería Social": [
+            "Módulo 5: Ingeniería Social": [
                 "Phishing y Vishing",
                 "Manipulación Psicológica",
                 "Prevención",
@@ -293,31 +293,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Escaneo y OSINT": [
+            "Módulo 6: Escaneo y OSINT": [
                 "OSINT (Búsqueda Pública)",
                 "Escaneo con Nmap",
                 "Directorios Ocultos",
                 "Proyecto: Reporte OSINT Empresa"
             ],
-            "Módulo VII: Análisis de Vulnerabilidades": [
+            "Módulo 7: Análisis de Vulnerabilidades": [
                 "CVEs",
                 "Escáneres (Nessus)",
                 "Análisis Manual",
                 "Proyecto: Escaneo de Servidor Local"
             ],
-            "Módulo VIII: Hacking Redes WiFi": [
+            "Módulo 8: Hacking Redes WiFi": [
                 "Protocolos WPA2/WPA3",
                 "Modo Monitor",
                 "Ataques de Diccionario",
                 "Proyecto: Auditoría WiFi Propia"
             ],
-            "Módulo IX: Explotación Básica": [
+            "Módulo 9: Explotación Básica": [
                 "Metasploit Framework",
                 "Exploits y Payloads",
                 "Vulnerabilidades Famosas",
                 "Proyecto: Controlar Máquina Windows (Lab)"
             ],
-            "Módulo X: Anonimato y Redes Ocultas": [
+            "Módulo 10: Anonimato y Redes Ocultas": [
                 "Red Tor y Deep Web",
                 "Proxies y VPNs",
                 "Evasión de Rastreo",
@@ -325,31 +325,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Vulnerabilidades Web (OWASP)": [
+            "Módulo 11: Vulnerabilidades Web (OWASP)": [
                 "Inyección SQL",
                 "Cross-Site Scripting (XSS)",
                 "Fallas de Autenticación",
                 "Proyecto: Hackear App de Pruebas"
             ],
-            "Módulo XII: Interceptores (Burp Suite)": [
+            "Módulo 12: Interceptores (Burp Suite)": [
                 "Configuración Burp",
                 "Peticiones HTTP",
                 "Fuerza Bruta Login",
                 "Proyecto: Salto de Autenticación"
             ],
-            "Módulo XIII: Forense Digital Básica": [
+            "Módulo 13: Forense Digital Básica": [
                 "Preservación de Evidencia",
                 "Recuperación de Datos",
                 "Metadatos",
                 "Proyecto: Investigar USB Comprometido"
             ],
-            "Módulo XIV: Seguridad Móvil": [
+            "Módulo 14: Seguridad Móvil": [
                 "Permisos Abusivos",
                 "Análisis de APKs",
                 "Spyware",
                 "Proyecto: Detectar App Maliciosa"
             ],
-            "Módulo XV: Post-Explotación": [
+            "Módulo 15: Post-Explotación": [
                 "Escalamiento de Privilegios",
                 "Backdoors",
                 "Borrado de Huellas",
@@ -357,31 +357,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Bastionado (Hardening)": [
+            "Módulo 16: Bastionado (Hardening)": [
                 "Asegurar Windows/Linux",
                 "Reglas Firewall",
                 "Cierre de Puertos",
                 "Proyecto: Hardening de Servidor"
             ],
-            "Módulo XVII: Monitoreo Continuo (SIEM)": [
+            "Módulo 17: Monitoreo Continuo (SIEM)": [
                 "Wazuh / Splunk",
                 "Logs de Eventos",
                 "Alertas Automáticas",
                 "Proyecto: Alarma de Intrusos"
             ],
-            "Módulo XVIII: Análisis de Malware": [
+            "Módulo 18: Análisis de Malware": [
                 "Sandboxing",
                 "Comportamiento Ransomware",
                 "Desensamblado Simple",
                 "Proyecto: Analizar Troyano"
             ],
-            "Módulo XIX: Informes de Auditoría": [
+            "Módulo 19: Informes de Auditoría": [
                 "Leyes Informáticas",
                 "Redacción Ejecutiva",
                 "Contrato Pentesting",
                 "Proyecto: Reporte Profesional"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Escenario Ataque/Defensa",
                 "Pentest Documentado",
                 "Mitigaciones",
@@ -391,31 +391,31 @@ const currData = {
     },
     "4. Redes Fibra y Telecomunicaciones": {
         "Nivel Básico": {
-            "Módulo I: Fundamentos de Redes IP": [
+            "Módulo 1: Fundamentos de Redes IP": [
                 "Direcciones IP",
                 "Ping y Tracert",
                 "Tipos de Redes",
                 "Proyecto: Diseño Lógico Local"
             ],
-            "Módulo II: Cableado Estructurado": [
+            "Módulo 2: Cableado Estructurado": [
                 "Cables UTP",
                 "Ponchado RJ45",
                 "Normas T568",
                 "Proyecto: Armado de Cables Red"
             ],
-            "Módulo III: Equipos de Red": [
+            "Módulo 3: Equipos de Red": [
                 "Switch vs Router",
                 "Configuración Router WiFi",
                 "Canales Inalámbricos",
                 "Proyecto: Red WiFi Optimizada"
             ],
-            "Módulo IV: Redes Locales (LAN)": [
+            "Módulo 4: Redes Locales (LAN)": [
                 "Compartir Carpetas",
                 "Impresoras de Red",
                 "Grupos de Trabajo",
                 "Proyecto: Oficina Pequeña Conectada"
             ],
-            "Módulo V: Diagnóstico Básico": [
+            "Módulo 5: Diagnóstico Básico": [
                 "Cables Dañados",
                 "Conflictos IP",
                 "Cuellos de Botella",
@@ -423,31 +423,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: El Negocio WISP": [
+            "Módulo 6: El Negocio WISP": [
                 "ISP/WISP",
                 "Torres de Telecomunicación",
                 "Legislación",
                 "Proyecto: Presupuesto para WISP"
             ],
-            "Módulo VII: Radioenlaces Ubiquiti": [
+            "Módulo 7: Radioenlaces Ubiquiti": [
                 "Frecuencias 5GHz",
                 "Línea de Vista",
                 "Configuración AP/Estación",
                 "Proyecto: Enlace Punto a Punto"
             ],
-            "Módulo VIII: Introducción Mikrotik": [
+            "Módulo 8: Introducción Mikrotik": [
                 "Acceso Winbox",
                 "Direccionamiento IP",
                 "Salida a Internet (NAT)",
                 "Proyecto: Router Mikrotik Activo"
             ],
-            "Módulo IX: Control Ancho de Banda": [
+            "Módulo 9: Control Ancho de Banda": [
                 "Colas (Queues)",
                 "Limitar Velocidad",
                 "QoS Básico",
                 "Proyecto: Limitar Megas a Clientes"
             ],
-            "Módulo X: Enlaces Multipunto": [
+            "Módulo 10: Enlaces Multipunto": [
                 "Antenas Sectoriales",
                 "Alineación CPE",
                 "Ruido Inalámbrico",
@@ -455,31 +455,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Naturaleza de la Fibra": [
+            "Módulo 11: Naturaleza de la Fibra": [
                 "Monomodo vs Multimodo",
                 "Conectores Ópticos",
                 "Herramientas Básicas",
                 "Proyecto: Identificación Óptica"
             ],
-            "Módulo XII: Arquitectura PON": [
+            "Módulo 12: Arquitectura PON": [
                 "OLT, ONU y Splitter",
                 "Divisiones Ópticas",
                 "Atenuación",
                 "Proyecto: Diseño Red PON"
             ],
-            "Módulo XIII: Empalmes y Fusión": [
+            "Módulo 13: Empalmes y Fusión": [
                 "Uso de Empalmadora",
                 "Mufas de Empalme",
                 "Preparación de Fibra",
                 "Proyecto: Fusión Exitosa"
             ],
-            "Módulo XIV: Herramientas Medición": [
+            "Módulo 14: Herramientas Medición": [
                 "VFL (Lápiz Óptico)",
                 "Power Meter",
                 "OTDR Básico",
                 "Proyecto: Medición de Potencia"
             ],
-            "Módulo XV: Configuración de OLT": [
+            "Módulo 15: Configuración de OLT": [
                 "Acceso Consola/Web",
                 "Aprovisionamiento ONU",
                 "Perfiles de Velocidad",
@@ -487,31 +487,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Ruteo Avanzado": [
+            "Módulo 16: Ruteo Avanzado": [
                 "VLANs",
                 "Ruteo Estático",
                 "Ruteo OSPF Básico",
                 "Proyecto: Separar Redes VLAN"
             ],
-            "Módulo XVII: Portal Cautivo y Hotspot": [
+            "Módulo 17: Portal Cautivo y Hotspot": [
                 "¿Qué es Hotspot?",
                 "Venta de Fichas",
                 "Personalización",
                 "Proyecto: Sistema Venta Wi-Fi"
             ],
-            "Módulo XVIII: Seguridad Borde": [
+            "Módulo 18: Seguridad Borde": [
                 "Firewall Básico",
                 "Protección DDoS",
                 "Backups Automáticos",
                 "Proyecto: Mikrotik Protegido"
             ],
-            "Módulo XIX: Facturación": [
+            "Módulo 19: Facturación": [
                 "SmartISP/WispHub",
                 "Cortes Automáticos",
                 "Avisos de Pago",
                 "Proyecto: Integración Facturador"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Diseño Total Red",
                 "Implementación Simulada",
                 "Presupuesto Físico",
@@ -521,31 +521,31 @@ const currData = {
     },
     "5. Soporte IT y Servidores": {
         "Nivel Básico": {
-            "Módulo I: Arquitectura PC": [
+            "Módulo 1: Arquitectura PC": [
                 "Placa Base y CPU",
                 "Memoria y Discos",
                 "Fuentes Poder",
                 "Proyecto: Reconocimiento Hardware"
             ],
-            "Módulo II: Ensamblaje Equipos": [
+            "Módulo 2: Ensamblaje Equipos": [
                 "Reglas ESD",
                 "Armado Paso a Paso",
                 "Gestión Cables",
                 "Proyecto: Armado de PC Funcional"
             ],
-            "Módulo III: Sistemas Operativos": [
+            "Módulo 3: Sistemas Operativos": [
                 "USB Booteable",
                 "BIOS/UEFI",
                 "Instalación Limpia",
                 "Proyecto: Formateo Completo"
             ],
-            "Módulo IV: Rescate Lógico": [
+            "Módulo 4: Rescate Lógico": [
                 "Hiren's Boot",
                 "Contraseñas Perdidas",
                 "Rescate de Datos",
                 "Proyecto: Reparación sin Formateo"
             ],
-            "Módulo V: Mantenimiento Físico": [
+            "Módulo 5: Mantenimiento Físico": [
                 "Limpieza Profunda",
                 "Pasta Térmica",
                 "Mantenimiento Laptops",
@@ -553,31 +553,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Electrónica Básica PC": [
+            "Módulo 6: Electrónica Básica PC": [
                 "Uso del Multímetro",
                 "Medición Voltajes",
                 "Diagnóstico Fuente",
                 "Proyecto: Diagnóstico Eléctrico"
             ],
-            "Módulo VII: Clonación y Backups": [
+            "Módulo 7: Clonación y Backups": [
                 "HDD a SSD",
                 "Imágenes Ghost/Acronis",
                 "Despliegue de Red",
                 "Proyecto: Clonación de Disco"
             ],
-            "Módulo VIII: Optimización": [
+            "Módulo 8: Optimización": [
                 "Bloatware",
                 "Registro Windows",
                 "Limpieza de Malware",
                 "Proyecto: Acelerar PC Lento"
             ],
-            "Módulo IX: Soporte Remoto": [
+            "Módulo 9: Soporte Remoto": [
                 "AnyDesk/TeamViewer",
                 "RDP Windows",
                 "Atención al Cliente",
                 "Proyecto: Simulación de Soporte"
             ],
-            "Módulo X: Ofimática": [
+            "Módulo 10: Ofimática": [
                 "Suites (Office)",
                 "Activaciones",
                 "Correos Outlook",
@@ -585,31 +585,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Virtualización": [
+            "Módulo 11: Virtualización": [
                 "Máquinas Virtuales",
                 "VirtualBox/VMware",
                 "Snapshots",
                 "Proyecto: Laboratorio Virtual"
             ],
-            "Módulo XII: Windows Server": [
+            "Módulo 12: Windows Server": [
                 "Instalación Server",
                 "Roles Básicos",
                 "IP Estática",
                 "Proyecto: Servidor en Red Local"
             ],
-            "Módulo XIII: Directorio Activo (AD)": [
+            "Módulo 13: Directorio Activo (AD)": [
                 "Dominio y Controladores",
                 "Cuentas Usuario",
                 "Unir PCs a Dominio",
                 "Proyecto: Red Centralizada"
             ],
-            "Módulo XIV: Políticas Grupo (GPO)": [
+            "Módulo 14: Políticas Grupo (GPO)": [
                 "Concepto GPO",
                 "Bloqueo USBs",
                 "Fondos de Pantalla",
                 "Proyecto: Reglas de Seguridad"
             ],
-            "Módulo XV: File Server": [
+            "Módulo 15: File Server": [
                 "Carpetas Compartidas",
                 "Permisos NTFS",
                 "Cuotas de Disco",
@@ -617,31 +617,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Servidores Linux": [
+            "Módulo 16: Servidores Linux": [
                 "Ubuntu/Debian Server",
                 "Consola Linux",
                 "Servidor Apache",
                 "Proyecto: Web Server Linux"
             ],
-            "Módulo XVII: NAS y Backups": [
+            "Módulo 17: NAS y Backups": [
                 "Sistemas NAS",
                 "Arreglos RAID",
                 "Respaldos Automáticos",
                 "Proyecto: NAS de Seguridad"
             ],
-            "Módulo XVIII: Monitoreo de Red": [
+            "Módulo 18: Monitoreo de Red": [
                 "Zabbix / PRTG",
                 "Alertas de Disco",
                 "Ping Continuo",
                 "Proyecto: Dashboard IT"
             ],
-            "Módulo XIX: Mesa de Ayuda (ITIL)": [
+            "Módulo 19: Mesa de Ayuda (ITIL)": [
                 "Sistema Tickets (GLPI)",
                 "SLAs",
                 "Inventario Equipos",
                 "Proyecto: Mesa de Soporte Implementada"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Diseño Red Corporativa",
                 "Despliegue Servidores",
                 "Sustentación",
@@ -651,31 +651,31 @@ const currData = {
     },
     "6. Domotica e IoT": {
         "Nivel Básico": {
-            "Módulo I: Intro a Smart Home": [
+            "Módulo 1: Intro a Smart Home": [
                 "Conceptos Smart",
                 "WiFi vs Zigbee",
                 "Casos de Uso",
                 "Proyecto: Diagnóstico Vivienda"
             ],
-            "Módulo II: Asistentes de Voz": [
+            "Módulo 2: Asistentes de Voz": [
                 "Ecosistema Alexa",
                 "Ecosistema Google",
                 "Comandos Locales",
                 "Proyecto: Rutinas de Voz"
             ],
-            "Módulo III: Iluminación Inteligente": [
+            "Módulo 3: Iluminación Inteligente": [
                 "Focos Smart",
                 "Interruptores Táctiles",
                 "Neutro en Switches",
                 "Proyecto: Automatizar Sala"
             ],
-            "Módulo IV: Enchufes y Controles": [
+            "Módulo 4: Enchufes y Controles": [
                 "Enchufes Smart",
                 "Medición de Consumo",
                 "Control TV/Aire IrDA",
                 "Proyecto: Control de Electrodoméstico"
             ],
-            "Módulo V: Redes WiFi para IoT": [
+            "Módulo 5: Redes WiFi para IoT": [
                 "Saturación 2.4GHz",
                 "Redes Mesh",
                 "Routers Dedicados",
@@ -683,31 +683,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Sensores Seguridad": [
+            "Módulo 6: Sensores Seguridad": [
                 "Puerta/Ventana",
                 "Movimiento PIR",
                 "Cámaras WiFi",
                 "Proyecto: Alarma Smart"
             ],
-            "Módulo VII: Acceso Inteligente": [
+            "Módulo 7: Acceso Inteligente": [
                 "Cerraduras Biométricas",
                 "Video Porteros",
                 "Portones WiFi",
                 "Proyecto: Acceso App Celular"
             ],
-            "Módulo VIII: Sensores Confort": [
+            "Módulo 8: Sensores Confort": [
                 "Temperatura",
                 "Fuga Agua",
                 "Detector Humo",
                 "Proyecto: Sirena por Fuga"
             ],
-            "Módulo IX: Motores Cortineros": [
+            "Módulo 9: Motores Cortineros": [
                 "Cortinas Smart",
                 "Automatización Horarios",
                 "Integración Clima",
                 "Proyecto: Despertador Natural"
             ],
-            "Módulo X: Escenas en Apps Tuya": [
+            "Módulo 10: Escenas en Apps Tuya": [
                 "If/Then Logic",
                 "Geofencing",
                 "Permisos de Familia",
@@ -715,31 +715,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Electrónica para IoT": [
+            "Módulo 11: Electrónica para IoT": [
                 "Protoboard",
                 "Relés y Voltajes",
                 "Fuentes",
                 "Proyecto: Circuito Relé"
             ],
-            "Módulo XII: Microcontrolador ESP32": [
+            "Módulo 12: Microcontrolador ESP32": [
                 "Entorno Arduino IDE",
                 "Conexión WiFi ESP32",
                 "Pines Entrada/Salida",
                 "Proyecto: ESP32 en Red"
             ],
-            "Módulo XIII: Sensores Personales": [
+            "Módulo 13: Sensores Personales": [
                 "Sensor DHT11",
                 "Sensor Luz LDR",
                 "Envío Nube",
                 "Proyecto: Estación Clima"
             ],
-            "Módulo XIV: Relés Múltiples": [
+            "Módulo 14: Relés Múltiples": [
                 "Módulo 4/8 Relés",
                 "Web Server Local",
                 "Diseño Interfaz",
                 "Proyecto: Control 4 Luces Web"
             ],
-            "Módulo XV: Firmware Alternativo": [
+            "Módulo 15: Firmware Alternativo": [
                 "Liberar Equipos Chinos",
                 "Flasheo Tasmota",
                 "Control Local",
@@ -747,31 +747,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Servidor Home Assistant": [
+            "Módulo 16: Servidor Home Assistant": [
                 "Instalar en PC/Raspberry",
                 "Concepto Local Privado",
                 "Dashboard General",
                 "Proyecto: Home Assistant Listo"
             ],
-            "Módulo XVII: Integración Avanzada": [
+            "Módulo 17: Integración Avanzada": [
                 "Agregar Tuya/Sonoff",
                 "Protocolo MQTT",
                 "Alexa en Local",
                 "Proyecto: Unir Marcas Distintas"
             ],
-            "Módulo XVIII: Automatización Node-RED": [
+            "Módulo 18: Automatización Node-RED": [
                 "Flujos Visuales",
                 "Condicionales",
                 "Avisos WhatsApp",
                 "Proyecto: Riego Automático"
             ],
-            "Módulo XIX: Planos 3D y Tablets": [
+            "Módulo 19: Planos 3D y Tablets": [
                 "Floorplan 3D",
                 "Botones en Plano",
                 "Tablets Pared",
                 "Proyecto: Tablet Control Sala"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Maqueta Smart Home",
                 "Demostración Funciones",
                 "Venta del Proyecto",
@@ -781,31 +781,31 @@ const currData = {
     },
     "7. Seguridad Electronica y CCTV": {
         "Nivel Básico": {
-            "Módulo I: Fundamentos CCTV": [
+            "Módulo 1: Fundamentos CCTV": [
                 "Analógico vs IP",
                 "Resoluciones (1080p, 4K)",
                 "Lentes",
                 "Proyecto: Diseño Cobertura Visual"
             ],
-            "Módulo II: Infraestructura Analógica": [
+            "Módulo 2: Infraestructura Analógica": [
                 "Cable Coaxial y UTP",
                 "Uso de Baluns",
                 "Fuentes de Poder",
                 "Proyecto: Armado Cables BNC"
             ],
-            "Módulo III: El Grabador DVR": [
+            "Módulo 3: El Grabador DVR": [
                 "Instalación Disco Duro",
                 "Configuración Inicial",
                 "Compresión H.265",
                 "Proyecto: DVR Grabando"
             ],
-            "Módulo IV: Cámaras Especiales": [
+            "Módulo 4: Cámaras Especiales": [
                 "Tecnología ColorVu",
                 "Micrófonos Ocultos",
                 "Cámaras PTZ",
                 "Proyecto: Configurar Cámara PTZ"
             ],
-            "Módulo V: Monitoreo Móvil": [
+            "Módulo 5: Monitoreo Móvil": [
                 "Conectar a Router",
                 "Configuración P2P",
                 "App Hik-Connect",
@@ -813,31 +813,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Redes para Cámaras": [
+            "Módulo 6: Redes para Cámaras": [
                 "IPs y Switches",
                 "Ancho de Banda",
                 "Categorías UTP",
                 "Proyecto: Red Dedicada CCTV"
             ],
-            "Módulo VII: Tecnología PoE": [
+            "Módulo 7: Tecnología PoE": [
                 "Switches PoE",
                 "Distancias Máximas",
                 "Inyectores",
                 "Proyecto: Cámara con un solo Cable"
             ],
-            "Módulo VIII: El Grabador NVR": [
+            "Módulo 8: El Grabador NVR": [
                 "Añadir Cámaras IP",
                 "Protocolo ONVIF",
                 "Búsqueda de Cámaras",
                 "Proyecto: NVR Multimarca"
             ],
-            "Módulo IX: Enlaces Inalámbricos": [
+            "Módulo 9: Enlaces Inalámbricos": [
                 "Antenas PtP",
                 "Postes Lejanos",
                 "Optimización Video",
                 "Proyecto: Cámara a 1KM Wi-Fi"
             ],
-            "Módulo X: Analítica de Video": [
+            "Módulo 10: Analítica de Video": [
                 "Detección Movimiento",
                 "Cruce de Línea",
                 "Falsas Alarmas",
@@ -845,31 +845,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Alarmas Contra Robo": [
+            "Módulo 11: Alarmas Contra Robo": [
                 "Panel de Control",
                 "Zonas y Teclados",
                 "Sirenas",
                 "Proyecto: Alarma Armada"
             ],
-            "Módulo XII: Sensores de Alarma": [
+            "Módulo 12: Sensores de Alarma": [
                 "Magnéticos",
                 "Infrarrojos PIR",
                 "Barreras Exteriores",
                 "Proyecto: Proteger Perímetro"
             ],
-            "Módulo XIII: Comunicación Alarma": [
+            "Módulo 13: Comunicación Alarma": [
                 "Módulos GPRS",
                 "Notificaciones App",
                 "Llamadas Celular",
                 "Proyecto: Alarma Notifica a Dueño"
             ],
-            "Módulo XIV: Detección Incendios": [
+            "Módulo 14: Detección Incendios": [
                 "Paneles de Fuego",
                 "Sensores Humo/Calor",
                 "Estaciones Manuales",
                 "Proyecto: Circuito Alarma Fuego"
             ],
-            "Módulo XV: Cercos Eléctricos": [
+            "Módulo 15: Cercos Eléctricos": [
                 "Energizadores",
                 "Postes y Alambre",
                 "Alto Voltaje",
@@ -877,31 +877,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Control de Acceso": [
+            "Módulo 16: Control de Acceso": [
                 "Chapas Magnéticas",
                 "Botones Salida",
                 "Cierra Puertas",
                 "Proyecto: Puerta Electrónica"
             ],
-            "Módulo XVII: Lectores Biométricos": [
+            "Módulo 17: Lectores Biométricos": [
                 "Tarjetas RFID",
                 "Huella Digital",
                 "Reconocimiento Facial",
                 "Proyecto: Torniquete Biométrico"
             ],
-            "Módulo XVIII: Software Asistencia": [
+            "Módulo 18: Software Asistencia": [
                 "ZKTeco Software",
                 "Horarios Laborales",
                 "Reporte Retrasos",
                 "Proyecto: Control Empleados"
             ],
-            "Módulo XIX: Integración Sistemas": [
+            "Módulo 19: Integración Sistemas": [
                 "VMS (Video Management)",
                 "Unir CCTV y Alarma",
                 "Monitoreo Unificado",
                 "Proyecto: Alerta Muestra Video"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Diseño Seguridad Bancaria",
                 "Planos Instalación",
                 "Presupuestado",
@@ -911,31 +911,31 @@ const currData = {
     },
     "8. Automatizacion Industrial y Robotica": {
         "Nivel Básico": {
-            "Módulo I: Conceptos Eléctricos": [
+            "Módulo 1: Conceptos Eléctricos": [
                 "Voltaje Monofásico/Trifásico",
                 "Uso de Pinza Amperimétrica",
                 "Leyes Básicas",
                 "Proyecto: Mediciones Reales"
             ],
-            "Módulo II: Protecciones Tablero": [
+            "Módulo 2: Protecciones Tablero": [
                 "Disyuntores",
                 "Diferenciales",
                 "Puesta a Tierra",
                 "Proyecto: Tablero Protección Básica"
             ],
-            "Módulo III: Contactores (Potencia)": [
+            "Módulo 3: Contactores (Potencia)": [
                 "Bobinas y Contactos",
                 "Contactos Auxiliares",
                 "Simbología",
                 "Proyecto: Encendido Remoto"
             ],
-            "Módulo IV: Arranque Motores": [
+            "Módulo 4: Arranque Motores": [
                 "Arranque Directo",
                 "Pulsadores y Enclavamiento",
                 "Guardamotores",
                 "Proyecto: Marcha/Paro de Motor"
             ],
-            "Módulo V: Sensores Industriales": [
+            "Módulo 5: Sensores Industriales": [
                 "Finales de Carrera",
                 "Sensores Inductivos",
                 "Sensores Capacitivos",
@@ -943,31 +943,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Arranques Complejos": [
+            "Módulo 6: Arranques Complejos": [
                 "Arranque Estrella-Triángulo",
                 "Temporizadores",
                 "Inversión de Giro",
                 "Proyecto: Inversión Giro Automática"
             ],
-            "Módulo VII: Neumática Básica": [
+            "Módulo 7: Neumática Básica": [
                 "Compresores",
                 "Electroválvulas",
                 "Cilindros de Aire",
                 "Proyecto: Circuito Neumático Simple"
             ],
-            "Módulo VIII: Variadores Frecuencia (VDF)": [
+            "Módulo 8: Variadores Frecuencia (VDF)": [
                 "Instalación VDF",
                 "Configuración Parámetros",
                 "Rampas Aceleración",
                 "Proyecto: Variar Velocidad Motor"
             ],
-            "Módulo IX: Arrancadores Suaves": [
+            "Módulo 9: Arrancadores Suaves": [
                 "Soft Starters",
                 "Bombas de Agua",
                 "Golpe de Ariete",
                 "Proyecto: Arranque Bomba Agua Pesada"
             ],
-            "Módulo X: Armado Profesional": [
+            "Módulo 10: Armado Profesional": [
                 "Riel DIN y Canaletas",
                 "Borneras",
                 "Norma Colores",
@@ -975,31 +975,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Introducción PLC": [
+            "Módulo 11: Introducción PLC": [
                 "Marcas (Siemens Logo/S7)",
                 "Entradas/Salidas",
                 "Cableado PLC",
                 "Proyecto: Alimentación y Test PLC"
             ],
-            "Módulo XII: Programación Ladder": [
+            "Módulo 12: Programación Ladder": [
                 "Diagrama Escalera",
                 "Contactos/Bobinas",
                 "Marcas Internas",
                 "Proyecto: Semáforo en PLC"
             ],
-            "Módulo XIII: Timers y Contadores": [
+            "Módulo 13: Timers y Contadores": [
                 "TON / TOF",
                 "Contadores de Producto",
                 "Lógicas Combinadas",
                 "Proyecto: Llenado de Cajas Automático"
             ],
-            "Módulo XIV: Señales Analógicas": [
+            "Módulo 14: Señales Analógicas": [
                 "Señales 0-10V / 4-20mA",
                 "Escalado",
                 "Sensores Temperatura",
                 "Proyecto: Control Nivel Tanque"
             ],
-            "Módulo XV: Pantallas HMI": [
+            "Módulo 15: Pantallas HMI": [
                 "Programación Visual HMI",
                 "Comunicación PLC-HMI",
                 "Botones Táctiles",
@@ -1007,31 +1007,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Redes Industriales": [
+            "Módulo 16: Redes Industriales": [
                 "Protocolo Modbus",
                 "Protocolo Profinet",
                 "Comunicar VDF a PLC",
                 "Proyecto: Red Control Industrial"
             ],
-            "Módulo XVII: Control PID": [
+            "Módulo 17: Control PID": [
                 "Concepto PID",
                 "Sintonización",
                 "Estabilidad Procesos",
                 "Proyecto: Horno Control PID Exacto"
             ],
-            "Módulo XVIII: Robótica Industrial": [
+            "Módulo 18: Robótica Industrial": [
                 "Robots Articulados",
                 "Grippers y Ejes",
                 "Programación Tareas",
                 "Proyecto: Brazo Robótico Simple"
             ],
-            "Módulo XIX: Industria 4.0 / IIoT": [
+            "Módulo 19: Industria 4.0 / IIoT": [
                 "Dashboards Remotos",
                 "Mantenimiento Predictivo",
                 "Datos en Nube",
                 "Proyecto: Monitoreo Planta en Celular"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Celda Manufactura Completa",
                 "Integración PLC+VDF+HMI",
                 "Documentación",
@@ -1041,31 +1041,31 @@ const currData = {
     },
     "9. Bases de Datos y Cloud": {
         "Nivel Básico": {
-            "Módulo I: Intro a Bases de Datos": [
+            "Módulo 1: Intro a Bases de Datos": [
                 "Bases vs Excel",
                 "Modelo Relacional",
                 "Tablas y Registros",
                 "Proyecto: Diagrama Entidad Relación"
             ],
-            "Módulo II: Lenguaje SQL DDL/DML": [
+            "Módulo 2: Lenguaje SQL DDL/DML": [
                 "Crear Tablas",
                 "Claves Foráneas",
                 "Insert/Select",
                 "Proyecto: Script Base Alumnos"
             ],
-            "Módulo III: Consultas Avanzadas SQL": [
+            "Módulo 3: Consultas Avanzadas SQL": [
                 "WHERE y Filtros",
                 "Agrupaciones GROUP BY",
                 "JOINs (Unir Tablas)",
                 "Proyecto: Reportes Complejos Ventas"
             ],
-            "Módulo IV: Motores de BD": [
+            "Módulo 4: Motores de BD": [
                 "Instalar MySQL/PostgreSQL",
                 "DBeaver UI",
                 "Gestión Usuarios",
                 "Proyecto: Servidor SQL Local"
             ],
-            "Módulo V: Programación en Base Datos": [
+            "Módulo 5: Programación en Base Datos": [
                 "Vistas Lógicas",
                 "Procedimientos Almacenados",
                 "Triggers",
@@ -1073,31 +1073,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Introducción a NoSQL": [
+            "Módulo 6: Introducción a NoSQL": [
                 "Concepto JSON",
                 "Instalación MongoDB",
                 "Colecciones",
                 "Proyecto: Base de Datos Perfiles"
             ],
-            "Módulo VII: Operaciones MongoDB": [
+            "Módulo 7: Operaciones MongoDB": [
                 "CRUD en Mongo",
                 "Búsquedas Flexibles",
                 "Agregaciones Básico",
                 "Proyecto: Catálogo Productos Flexible"
             ],
-            "Módulo VIII: Backups y Mantenimiento": [
+            "Módulo 8: Backups y Mantenimiento": [
                 "Respaldos Lógicos (Dumps)",
                 "Optimización Índices",
                 "Restauración",
                 "Proyecto: Rescate de Datos Perdidos"
             ],
-            "Módulo IX: Bases en Memoria": [
+            "Módulo 9: Bases en Memoria": [
                 "Concepto Caché",
                 "Instalación Redis",
                 "Velocidad de Respuesta",
                 "Proyecto: Acelerar Lectura Datos"
             ],
-            "Módulo X: Limpieza de Datos": [
+            "Módulo 10: Limpieza de Datos": [
                 "Detectar Duplicados",
                 "Normalización Textos",
                 "Importación CSV",
@@ -1105,31 +1105,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Introducción a la Nube": [
+            "Módulo 11: Introducción a la Nube": [
                 "Concepto Cloud (IaaS)",
                 "AWS vs Azure",
                 "Creación Cuenta",
                 "Proyecto: Entorno AWS Listo"
             ],
-            "Módulo XII: Máquinas Virtuales (EC2)": [
+            "Módulo 12: Máquinas Virtuales (EC2)": [
                 "Levantar Instancia",
                 "Security Groups",
                 "Conexión SSH",
                 "Proyecto: Servidor Linux AWS"
             ],
-            "Módulo XIII: Bases de Datos en Nube": [
+            "Módulo 13: Bases de Datos en Nube": [
                 "Servicio RDS",
                 "Ventajas Gestionadas",
                 "Conexión Remota",
                 "Proyecto: Migrar BD Local a Nube"
             ],
-            "Módulo XIV: Almacenamiento (S3)": [
+            "Módulo 14: Almacenamiento (S3)": [
                 "Buckets de Archivos",
                 "Permisos Lectura",
                 "Webs Estáticas",
                 "Proyecto: Disco en la Nube Infinito"
             ],
-            "Módulo XV: Escalabilidad Básico": [
+            "Módulo 15: Escalabilidad Básico": [
                 "Auto Scaling",
                 "Balanceador Carga",
                 "Alta Disponibilidad",
@@ -1137,31 +1137,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Fundamentos Big Data": [
+            "Módulo 16: Fundamentos Big Data": [
                 "Las 5 V's",
                 "Lagos de Datos",
                 "Procesamiento Masivo",
                 "Proyecto: Diseño Arquitectura Datos"
             ],
-            "Módulo XVII: Análisis con Python": [
+            "Módulo 17: Análisis con Python": [
                 "Librería Pandas",
                 "Transformación ETL",
                 "Conexión Python a BD",
                 "Proyecto: Script Extracción Datos"
             ],
-            "Módulo XVIII: Power BI Básico": [
+            "Módulo 18: Power BI Básico": [
                 "Importación Datos",
                 "Fórmulas DAX",
                 "Gráficos",
                 "Proyecto: Dashboard Ventas Gerencial"
             ],
-            "Módulo XIX: Almacenes de Datos": [
+            "Módulo 19: Almacenes de Datos": [
                 "Tablas Hechos/Dimensiones",
                 "Modelo Estrella",
                 "Diseño BI",
                 "Proyecto: Construir Modelo Analítico"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Pipeline Completo Datos",
                 "Implementación Dashboard Cloud",
                 "Costos",
@@ -1171,31 +1171,31 @@ const currData = {
     },
     "10. Hardware y Sistemas Embebidos": {
         "Nivel Básico": {
-            "Módulo I: Fundamentos Electrónica": [
+            "Módulo 1: Fundamentos Electrónica": [
                 "Voltaje, Corriente, Ohm",
                 "Multímetro",
                 "Resistencias/Diodos",
                 "Proyecto: Circuitos en Protoboard"
             ],
-            "Módulo II: Microsoldadura Básica": [
+            "Módulo 2: Microsoldadura Básica": [
                 "Uso Cautín",
                 "Estaño y Flux",
                 "Soldadura Orificio (THT)",
                 "Proyecto: Soldadura Placa Perforada"
             ],
-            "Módulo III: Microsoldadura SMD": [
+            "Módulo 3: Microsoldadura SMD": [
                 "Estación Calor",
                 "Desoldar Componentes",
                 "Limpieza Pistas",
                 "Proyecto: Cambio Conector Superficial"
             ],
-            "Módulo IV: Lectura Planos Eléctricos": [
+            "Módulo 4: Lectura Planos Eléctricos": [
                 "Símbolos Hardware",
                 "Seguimiento Continuidad",
                 "Diagramas Básico",
                 "Proyecto: Diagnóstico por Plano"
             ],
-            "Módulo V: Semiconductores": [
+            "Módulo 5: Semiconductores": [
                 "El Transistor Switch",
                 "Regulador Voltaje",
                 "Optoacopladores",
@@ -1203,31 +1203,31 @@ const currData = {
             ]
         },
         "Nivel Auxiliar": {
-            "Módulo VI: Entorno Arduino": [
+            "Módulo 6: Entorno Arduino": [
                 "¿Qué es Microcontrolador?",
                 "IDE Setup",
                 "Pines Entrada/Salida",
                 "Proyecto: LED Parpadeante"
             ],
-            "Módulo VII: Programación C++ Básico": [
+            "Módulo 7: Programación C++ Básico": [
                 "Variables",
                 "Bucles For/While",
                 "Condiciones",
                 "Proyecto: Lógica Semáforo"
             ],
-            "Módulo VIII: Entradas y Salidas Digitales": [
+            "Módulo 8: Entradas y Salidas Digitales": [
                 "Pulsadores",
                 "Antirrebote (Debounce)",
                 "Zumbadores",
                 "Proyecto: Piano Básico de Botones"
             ],
-            "Módulo IX: Señales Analógicas (PWM)": [
+            "Módulo 9: Señales Analógicas (PWM)": [
                 "Lectura Potenciómetro",
                 "Brillo PWM",
                 "Mapeo Variables",
                 "Proyecto: Control Intensidad Luz"
             ],
-            "Módulo X: Motores Pequeños": [
+            "Módulo 10: Motores Pequeños": [
                 "Servomotores",
                 "Puente H Motores DC",
                 "Motores Paso a Paso",
@@ -1235,31 +1235,31 @@ const currData = {
             ]
         },
         "Nivel Medio I": {
-            "Módulo XI: Sensores Periféricos": [
+            "Módulo 11: Sensores Periféricos": [
                 "Ultrasonido",
                 "Detector Movimiento",
                 "Temperatura/Humedad",
                 "Proyecto: Basurero Apertura Auto"
             ],
-            "Módulo XII: Pantallas": [
+            "Módulo 12: Pantallas": [
                 "Display LCD 16x2",
                 "I2C Protocolo",
                 "Pantallas OLED",
                 "Proyecto: Menú Interactivo Visual"
             ],
-            "Módulo XIII: Comunicación Inalámbrica": [
+            "Módulo 13: Comunicación Inalámbrica": [
                 "Bluetooth Serie",
                 "App Celular Control",
                 "Radio 433MHz",
                 "Proyecto: Coche Remoto Bluetooth"
             ],
-            "Módulo XIV: Ecosistema ESP32 (WiFi)": [
+            "Módulo 14: Ecosistema ESP32 (WiFi)": [
                 "Procesador Doble Núcleo",
                 "Conexión a Red Local",
                 "Web Server Micro",
                 "Proyecto: Control Luces vía Web"
             ],
-            "Módulo XV: Diseño de Placas (PCB)": [
+            "Módulo 15: Diseño de Placas (PCB)": [
                 "Software EasyEDA",
                 "Dibujo Esquemático",
                 "Ruteo de Pistas",
@@ -1267,31 +1267,31 @@ const currData = {
             ]
         },
         "Nivel Medio II": {
-            "Módulo XVI: Microordenador Raspberry": [
+            "Módulo 16: Microordenador Raspberry": [
                 "Linux en Placa",
                 "Pines GPIO",
                 "Micro vs Microordenador",
                 "Proyecto: Servidor Multimedia Mini"
             ],
-            "Módulo XVII: Python en Hardware": [
+            "Módulo 17: Python en Hardware": [
                 "Librerías GPIO Python",
                 "Lectura Sensores",
                 "Scripting",
                 "Proyecto: Alarma Escrita en Python"
             ],
-            "Módulo XVIII: Visión Artificial Básica": [
+            "Módulo 18: Visión Artificial Básica": [
                 "Cámaras para Raspberry",
                 "OpenCV Inicial",
                 "Detección Colores",
                 "Proyecto: Cámara Rastreo Color"
             ],
-            "Módulo XIX: Manufactura de Hardware": [
+            "Módulo 19: Manufactura de Hardware": [
                 "Encargar PCB a China",
                 "Cálculo Costos Piezas",
                 "Ensamble en Serie",
                 "Proyecto: Plan de Producción de Gadget"
             ],
-            "Módulo XX: Proyecto de Grado y Defensa": [
+            "Módulo 20: Proyecto de Grado y Defensa": [
                 "Desarrollo Hardware Real",
                 "Programación Código",
                 "Carcasa Impresa 3D",
@@ -1492,7 +1492,7 @@ REGLAS ESTRICTAS DE REDACCIÓN Y FORMATO:
 
 FORMATO OBLIGATORIO DE LA CARÁTULA (DIAPOSITIVA 1): La carátula debe ocupar el 90% de la diapositiva, con toda la información centrada y organizada de forma vertical (en filas):
 1. Título del Tema (Arriba y al Centro): En tamaño EXTRAGRANDE y color AZUL VIBRANTE.
-2. Módulo (Fila destacada): La palabra "Módulo:" en color ROJO y el nombre "${modulo.replace(/^Módulo\s*[IVX]+:\s*/i, '')}" en color CELESTE (en tamaño más grande que los siguientes datos).
+2. Módulo (Fila destacada): La palabra "Módulo:" en color ROJO y el nombre "${modulo.replace(/^Módulo\s*\d+:\s*/i, '')}" en color CELESTE (en tamaño más grande que los siguientes datos).
 3. Datos Informativos (En filas separadas, una debajo de otra):
    • Academia: (Etiqueta en ROJO) EduConnectRuben (Respuesta en AZUL)
    • Carrera: (Etiqueta en ROJO) ${carrera} (Respuesta en VERDE)
